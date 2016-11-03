@@ -34,7 +34,7 @@ body {
 .nav ul li:link{
     color: white;
 }
-.nav ul li.title{
+.nav ul .title{
     float:left;
 }
 .nav ul li a{
@@ -50,7 +50,7 @@ li.active {
     background-color: #a72222;
     border-radius: 10px;
 }
-li.title{
+.title{
     color: #ffffff;
     font-size: 2em;
 }
